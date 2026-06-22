@@ -37,3 +37,5 @@ The app runs on `http://localhost:3000`.
 
 ## 📝 Project Details
 This project demonstrates how to extend Syncfusion Rich Text Editor with emoji functionality. It includes custom toolbar buttons, emoji picker integration, and content management in React. Perfect for developers enhancing text editing with multimedia support.
+
+>Looking for the full React Rich Text Editor component overview, features, pricing, and documentation? Visit the [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor) page.
